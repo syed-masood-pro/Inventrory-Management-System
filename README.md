@@ -285,6 +285,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 Syed Masood - syedmasood.pro@gmail.com
 
-Project Link: [https://github.com/syed-masood-pro/Inventrory-Management-System/]([https://github.com/[Your-GitHub-Username]/[your-repo-name]](https://github.com/syed-masood-pro/Inventrory-Management-System/))
+Project Link: [https://github.com/syed-masood-pro/Inventrory-Management-System/](https://github.com/syed-masood-pro/Inventrory-Management-System/)
 
 
